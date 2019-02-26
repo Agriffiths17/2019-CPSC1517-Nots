@@ -1,1 +1,1 @@
-# 2019-CPSC1517-Nots
+# 2019-CPSC1517-Notes
